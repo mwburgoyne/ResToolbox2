@@ -1,2 +1,2 @@
 # ResToolbox2
-Page for privacy policy statement
+The ResToolbox2 app does not use nor store any user data. It is a standalone application.
